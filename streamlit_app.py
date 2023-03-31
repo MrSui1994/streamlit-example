@@ -81,7 +81,3 @@ with col2:
 with col3:
     st.header("An owl")
     st.image('col3.webp')
-#雪花
-st.snow()
-# 气球
-st.balloons()
