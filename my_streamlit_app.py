@@ -3,13 +3,6 @@ import pandas as pd
 import numpy as np
 
 
-[theme]
-primaryColor="#F63366"
-backgroundColor="#FFFFFF"
-secondaryBackgroundColor="#F0F2F6"
-textColor="#262730"
-font="sans serif"
-
 #左侧边栏
 with st.sidebar:
     add_radio = st.radio(
